@@ -1,0 +1,12 @@
+[package]
+name    = "image-grid"
+version = "0.1.0"
+authors = ["DragoshiUk"]
+description = "Thumbnail grid preview for directories full of images in yazi"
+license = "MIT"
+keywords = ["preview", "image", "thumbnail", "montage", "grid", "gallery"]
+homepage = "https://github.com/DragoshiUk/image-grid.yazi"
+repository = "https://github.com/DragoshiUk/image-grid.yazi"
+
+[dependencies]
+yazi = ">= 26.0.0"
